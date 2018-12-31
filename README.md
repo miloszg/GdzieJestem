@@ -1,5 +1,5 @@
 # GdzieJestem
-[ANDROID] aplikacja wyświetlająca informacje o położeniu użytkownika /n
+[ANDROID] aplikacja wyświetlająca informacje o położeniu użytkownika
  wyświetlane zostają:
  -szerokość geograficzna  
  -dlugość geograficzna 
